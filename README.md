@@ -1,4 +1,6 @@
-![Teleco Churn Dashboard](dashboard_overview.png)
+![Teleco Churn Dashboard](Teleco_ChurnAnalysis.png)
+
+
 Telco Customer Churn Analysis
 Project Overview
 This project focuses on identifying patterns in customer attrition (churn) within the telecommunications sector. The primary goal was to take a raw, inconsistent dataset and transform it into a structured analytical model to visualize churn drivers and revenue impact through an interactive Power BI dashboard.
